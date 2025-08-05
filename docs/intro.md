@@ -23,7 +23,9 @@ Here's a couple of tips to get you started with [Dhub](https://dhub.dev):
 
 2. With [Dhub](https://dhub.dev), you own your code. Click the `Push GitHub` button to create a GitHub repository for your project.
 
-3. You can deploy your project to the web using [Vercel](https://vercel.com) or [Netlify](https://netlify.com) for free. Here are tutorials on how to deploy to [Vercel](https://vercel.com/guides/deploying-docusaurus-with-vercel) and to [Netlify](https://www.netlify.com/blog/2016/10/27/a-step-by-step-guide-deploying-a-static-site-or-single-page-app/). Alternatively, you click the three dots at the top right corner, and then click the `Deloy to Vercel`.
+3. salam
+
+4. You can deploy your project to the web using [Vercel](https://vercel.com) or [Netlify](https://netlify.com) for free. Here are tutorials on how to deploy to [Vercel](https://vercel.com/guides/deploying-docusaurus-with-vercel) and to [Netlify](https://www.netlify.com/blog/2016/10/27/a-step-by-step-guide-deploying-a-static-site-or-single-page-app/). Alternatively, you click the three dots at the top right corner, and then click the `Deloy to Vercel`.
 
 :::info Preview URL
 
