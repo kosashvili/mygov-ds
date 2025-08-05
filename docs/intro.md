@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+slug: /
+---
+
 ![](/img/mygovdesignsystem.png)
 
 mygov Design System functions as a comprehensive toolkit for creating easy-to-use websites and apps for mygov\* services. It gives designers and developers all the components and tools they need to make sure everything looks and works the same way across all mygov platforms. This makes it quicker and simpler to build new features and keep everything running smoothly for users.
