@@ -5,3 +5,9 @@ mygov Design System functions as a comprehensive toolkit for creating easy-to-us
 ### **About mygov**
 
 mygov is a centralized platform created to facilitate easy access to state-provided information, e-services, and documents. It enables users to apply for services, obtain e-references, verify personal information, and control data sharing, all in one integrated place.
+
+
+
+| Design token                     | Components                       | Essential                     |
+| -------------------------------- | -------------------------------- | ----------------------------- |
+| ![](/img/minicorecomponents.png) | ![](/img/minicorecomponents.png) | ![](/img/minidesigntoken.png) |
