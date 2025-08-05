@@ -16,3 +16,17 @@ mygov is a centralized platform created to facilitate easy access to state-provi
 | Design token                     | Components                       | Essential                     |
 | -------------------------------- | -------------------------------- | ----------------------------- |
 | ![](/img/minicorecomponents.png) | ![](/img/minicorecomponents.png) | ![](/img/minidesigntoken.png) |
+
+```mdx-code-block
+import { Card, CardHeader, CardContent } from "@/components/ui/card"
+
+<Card>
+  <CardHeader>
+    <h2>Card Başlığı</h2>
+  </CardHeader>
+  <CardContent>
+    Bu card kontentidir. Burada adi markdown və ya HTML də işləyir.
+  </CardContent>
+</Card>
+
+```
